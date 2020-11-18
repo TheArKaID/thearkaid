@@ -1,4 +1,6 @@
-### Hi there 👋
+# Proud you are here, and looking something about me.
+### I just a Code Enthusiast - Coding for Fun.
+### Want to see my deployed stuff ? Come [Here](https://arka.web.id), it's my online portfolio. Feel free to contact me.
 
 <!--
 **TheArKaID/TheArKaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
